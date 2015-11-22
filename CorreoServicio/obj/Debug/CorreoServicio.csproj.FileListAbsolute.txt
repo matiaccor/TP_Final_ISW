@@ -1,0 +1,40 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\CorreoServicio.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\CorreoServicio.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\OpenPop.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb

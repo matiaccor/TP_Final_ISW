@@ -1,0 +1,20 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.pdb

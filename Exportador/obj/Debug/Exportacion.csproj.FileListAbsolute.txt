@@ -1,0 +1,36 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Excepciones.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Exportacion.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Exportacion.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb

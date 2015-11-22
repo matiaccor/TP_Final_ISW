@@ -1,0 +1,9 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.exe.config
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.Form1.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.Properties.Resources.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.csproj.GenerateResource.Cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.pdb

@@ -1,0 +1,36 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\Persistencia.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\Persistencia.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\obj\Debug\Persistencia.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\obj\Debug\Persistencia.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Persistencia\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\bin\Debug\Excepciones.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Persistencia\obj\Debug\Persistencia.pdb

@@ -1,0 +1,138 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.exe.config
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\formPrincipal.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.formPrincipal.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.Properties.Resources.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\Formularios.csproj.GenerateResource.Cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\Clases.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\Clases.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\obj\Debug\formPrincipal.formEnvioCorreo.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\smtpop.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\Mail.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\formPrincipal\bin\Debug\Mail.xml
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\OpenPop.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Controladores.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Persistencia.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Controladores.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Persistencia.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\CorreoServicio.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\CorreoServicio.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Excepciones.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Exportacion.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\Exportacion.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.AcercaDe.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.FormCuenta.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.formEnvioCorreo.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.formPrincipal.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.FormContraseña.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.FormAyuda.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\PostApp.exe.config
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\PostApp.exe.manifest
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\PostApp.application
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\PostApp.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\bin\Debug\PostApp.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\PostApp.exe.manifest
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\PostApp.application
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\PostApp.exe
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Formularios\obj\Debug\PostApp.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.config
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.manifest
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.application
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\OpenPop.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.AcercaDe.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormAyuda.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormContraseña.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormCuenta.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formEnvioCorreo.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formPrincipal.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe.manifest
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.application
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.config
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.manifest
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.application
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\OpenPop.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.dll
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.pdb
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.AcercaDe.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormAyuda.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormContraseña.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormCuenta.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formEnvioCorreo.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formPrincipal.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe.manifest
+C:\Users\Administrador\Google Drive\Facultad\4to Año\Ingenieria de Software\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.application
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.config
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe.config
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.exe
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\PostApp.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.AcercaDe.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormAyuda.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormContraseña.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.FormCuenta.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formEnvioCorreo.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.formPrincipal.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.exe
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\PostApp.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\OpenPop.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.dll
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Controladores.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\DataTransferObject.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Persistencia.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\CorreoServicio.pdb
+C:\Users\Orlando\Desktop\TPFinalTallerProgramacion\Codigo fuente\Formularios\bin\Debug\Exportacion.pdb
